@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/check_license.py": {
+      "runtime": "python3.9"
+    }
+  }
+}

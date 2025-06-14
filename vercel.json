@@ -4,5 +4,11 @@
       "src": "api/check_license.py",
       "use": "@vercel/python"
     }
+  ],
+  "routes": [
+    {
+      "src": "/api/check_license",
+      "dest": "/api/check_license.py"
+    }
   ]
 }
